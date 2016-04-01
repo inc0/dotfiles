@@ -19,6 +19,7 @@ NeoBundle 'tpope/vim-fugitive'
 NeoBundle 'ctrlpvim/ctrlp.vim'
 NeoBundle 'flazz/vim-colorschemes'
 NeoBundle 'scrooloose/nerdtree'
+NeoBundle 'terryma/vim-multiple-cursors'
 NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' } "Specify revision/branch/tag
 
 call neobundle#end() "Required
