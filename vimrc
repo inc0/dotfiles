@@ -66,3 +66,5 @@ endif
 
 " nerdtree                                                                      
 map <C-m> :NERDTreeToggle<CR>
+
+set rnu
