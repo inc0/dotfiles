@@ -1,3 +1,4 @@
+"curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh | sh
 "NeoBundle Scripts-----------------------------
 if has('vim_starting')
   if &compatible
