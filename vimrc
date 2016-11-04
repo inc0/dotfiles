@@ -15,7 +15,7 @@ NeoBundleFetch 'Shougo/neobundle.vim' "Required
                                                                                    
 " Add or remove your Bundles here:                                                 
 NeoBundle 'Shougo/neosnippet.vim'                                                  
-NeoBundle 'Shougo/neosnippet-snippets'                                             
+NeoBundle 'inc0/neosnippet-snippets'                                             
 NeoBundle 'tpope/vim-fugitive'                                                     
 NeoBundle 'ctrlpvim/ctrlp.vim'                                                     
 NeoBundle 'flazz/vim-colorschemes'                                                 
